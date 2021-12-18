@@ -1,0 +1,28 @@
+{
+    "cards":[{
+        "img":"images/fcart.png",
+        "name":"nokia",
+        "rate":"15000",
+        "offer":"12000",
+        "button":"view"
+    },{
+        "img":"images/fcart3.png",
+        "name":"vivo",
+        "rate":"15000",
+        "offer":"12000",
+        "button":"view"
+    },{
+        "img":"images/mcart1.png",
+        "name":"realme",
+        "rate":"15000",
+        "offer":"12000",
+        "button":"view"
+    },{
+        "img":"images/mcart2.png",
+        "name":"samsung",
+        "rate":"15000",
+        "offer":"12000",
+        "button":"view"
+    }
+ ]
+}
